@@ -6,7 +6,7 @@ This API is an open source API so you can download and do different things with 
 
 API Endpoint: "http://localhost:1337/api"
 
-API Start game: "http://localhost:1337/api/start_game"
+API Get start game: "http://localhost:1337/api/start_game"
 
 API Get game data: "http://localhost:1337/api/guess_the_number"
 
