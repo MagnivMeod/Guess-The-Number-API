@@ -16,4 +16,8 @@ game data: "win"   - is the boolean value that tells if player wins or not (True
 
 game data: "state" - is the state of the guess number, can receive 3 values; "lower", "higher", "equals".
 
+# How To Use
+To find out how to use, view code example on file "client.py".
 
+# Notice
+Make sure you run the API Server before you run the client
